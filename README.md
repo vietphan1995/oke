@@ -16,5 +16,7 @@ Oke improves many industries like travel, movie, dancing/exercise, language, liv
 
 Oke researches & applies modern technology as artificial intelligence in managing song database, searching and recommend song by title, lyric, melody, genre, artist in multiple language … Also improves text effects, voice cursor, tones, …
 
+![image.png](image.png)
+
 ### Notes
 https://six-zinc-ad4.notion.site/Oke-1b25e832d6ee8063abeae855ea9e7505
