@@ -18,5 +18,7 @@ Oke researches & applies modern technology as artificial intelligence in managin
 
 ![image.png](image.png)
 
+[back to projects …](https://github.com/vietphan1995/projects)
+
 ### Notes
 https://six-zinc-ad4.notion.site/Oke-1b25e832d6ee8063abeae855ea9e7505
