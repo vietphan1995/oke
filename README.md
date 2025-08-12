@@ -20,7 +20,7 @@ Oke researches & applies modern technology as artificial intelligence in managin
 
 ![image.png](image.png)
 
-[back to git projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/Oke-1b25e832d6ee8063abeae855ea9e7505
+https://phantrungviet.notion.site/oke-1b25e832d6ee8063abeae855ea9e7505
