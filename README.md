@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/oke.git](https://github.com/vietphan1995/oke.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:oke_project&body=left_your_idea)
+
 Oke is an application software system that help song, music author design their artistic product, specific at singing field, they can share and do business by their artistic product to singing community.
 
 Oke has enough karaoke functions like searching, picking song/s to sing, recording for memory or professional goal, sing with others, sing with singer/s. With artistic product designed by authors, singers, composers, Oke gives you best singing experience from who made song.
@@ -19,6 +21,8 @@ Oke improves many industries like travel, movie, dancing/exercise, language, liv
 Oke researches & applies modern technology as artificial intelligence in managing song database, searching and recommend song by title, lyric, melody, genre, artist in multiple language … Also improves text effects, voice cursor, tones, …
 
 ![image.png](image.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
